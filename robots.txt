@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://tiwicoza.github.io/sitemap/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/WOj/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/jnq/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/hcA/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/bBd/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/sjY/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/lgP/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/vre/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/CED/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/thx/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/fLF/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/Crm/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/pSj/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/PrX/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/UrK/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/cVh/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/wgV/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/nuS/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/Bsa/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/NGF/sitemap_index.tiwicoza
+Sitemap: https://tiwicoza.github.io/Tfp/sitemap_index.tiwicoza
